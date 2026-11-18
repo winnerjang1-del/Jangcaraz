@@ -1,9 +1,0 @@
-📁 프로젝트_폴더/
- ├── mypage.html
- ├── mypage.css
- └── 📁 images/
-      ├── user_profile.jpg      (사용자 프로필 사진, 권장 120x120px)
-      ├── meal_salad.jpg        (점심 식단 썸네일, 권장 150x150px)
-      ├── meal_toast.jpg        (아침 식단 썸네일, 권장 150x150px)
-      ├── meal_jjajang.jpg      (저녁 식단 썸네일, 권장 150x150px)
-      └── meal_tteokbokki.jpg   (간식 식단 썸네일, 권장 150x150px)
